@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcK25J7/colosal2.jpg" group-title="Música 🎼",Colosal | 88.3FM (CR)
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2Td67Rz/COLO.jpg" group-title="Música 🎼",Colosal TV (CR)
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Música 🎼",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt6657.rc0.smil/chunklist_w1486847191_b846000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Música 🎼",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt6657.rc0.edge.basic.stream/chunklist_w1248587662.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Música 🎼",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt6657.rc0.smil/chunklist_w2105341849_b3096000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Música 🎼",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt6657.rc0.smil/chunklist_w1200682729_b3096000.m3u8
